@@ -1,0 +1,11 @@
+D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\BLL_Puzzle_API\bin\Release\netcoreapp3.1\BLL_Puzzle_API.deps.json
+D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\BLL_Puzzle_API\bin\Release\netcoreapp3.1\BLL_Puzzle_API.dll
+D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\BLL_Puzzle_API\bin\Release\netcoreapp3.1\BLL_Puzzle_API.pdb
+D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\BLL_Puzzle_API\obj\Release\netcoreapp3.1\BLL_Puzzle_API.AssemblyInfoInputs.cache
+D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\BLL_Puzzle_API\obj\Release\netcoreapp3.1\BLL_Puzzle_API.AssemblyInfo.cs
+D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\BLL_Puzzle_API\obj\Release\netcoreapp3.1\BLL_Puzzle_API.csproj.CoreCompileInputs.cache
+D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\BLL_Puzzle_API\obj\Release\netcoreapp3.1\BLL_Puzzle_API.dll
+D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\BLL_Puzzle_API\obj\Release\netcoreapp3.1\BLL_Puzzle_API.pdb
+D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\BLL_Puzzle_API\bin\Release\netcoreapp3.1\BLL_Puzzle_API.runtimeconfig.json
+D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\BLL_Puzzle_API\bin\Release\netcoreapp3.1\BLL_Puzzle_API.runtimeconfig.dev.json
+D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\BLL_Puzzle_API\obj\Release\netcoreapp3.1\BLL_Puzzle_API.genruntimeconfig.cache

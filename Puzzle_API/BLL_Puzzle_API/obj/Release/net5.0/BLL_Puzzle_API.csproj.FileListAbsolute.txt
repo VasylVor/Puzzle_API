@@ -1,0 +1,14 @@
+D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\BLL_Puzzle_API\bin\Release\net5.0\BLL_Puzzle_API.deps.json
+D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\BLL_Puzzle_API\bin\Release\net5.0\BLL_Puzzle_API.runtimeconfig.json
+D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\BLL_Puzzle_API\bin\Release\net5.0\BLL_Puzzle_API.runtimeconfig.dev.json
+D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\BLL_Puzzle_API\bin\Release\net5.0\BLL_Puzzle_API.dll
+D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\BLL_Puzzle_API\bin\Release\net5.0\ref\BLL_Puzzle_API.dll
+D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\BLL_Puzzle_API\bin\Release\net5.0\BLL_Puzzle_API.pdb
+D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\BLL_Puzzle_API\obj\Release\net5.0\BLL_Puzzle_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\BLL_Puzzle_API\obj\Release\net5.0\BLL_Puzzle_API.AssemblyInfoInputs.cache
+D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\BLL_Puzzle_API\obj\Release\net5.0\BLL_Puzzle_API.AssemblyInfo.cs
+D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\BLL_Puzzle_API\obj\Release\net5.0\BLL_Puzzle_API.csproj.CoreCompileInputs.cache
+D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\BLL_Puzzle_API\obj\Release\net5.0\BLL_Puzzle_API.dll
+D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\BLL_Puzzle_API\obj\Release\net5.0\ref\BLL_Puzzle_API.dll
+D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\BLL_Puzzle_API\obj\Release\net5.0\BLL_Puzzle_API.pdb
+D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\BLL_Puzzle_API\obj\Release\net5.0\BLL_Puzzle_API.genruntimeconfig.cache

@@ -1,0 +1,211 @@
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\Puzzle_API
+Strat
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\Puzzle_API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\Puzzle_API
+Strat
+Strat
+Strat
+Strat
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\Puzzle_API
+First start CreatePuzzle!
+An unhandled exception has occurred while executing the request.
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\Puzzle_API
+First start CreatePuzzle!
+An unhandled exception has occurred while executing the request.
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\Puzzle_API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\Puzzle_API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\Puzzle_API
+An unhandled exception has occurred while executing the request.
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\Puzzle_API
+An unhandled exception has occurred while executing the request.
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\Puzzle_API
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\Puzzle_API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\Puzzle_API
+An unhandled exception has occurred while executing the request.
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\Puzzle_API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\Puzzle_API
+First start CreatePuzzle!
+An unhandled exception has occurred while executing the request.
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\Puzzle_API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\Puzzle_API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\Puzzle_API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\Puzzle_API
+An unhandled exception has occurred while executing the request.
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\Puzzle_API
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\Puzzle_API
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\Puzzle_API
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\Puzzle_API
+Start!
+Finish!
+An unhandled exception has occurred while executing the request.
+Start!
+Finish!
+An unhandled exception has occurred while executing the request.
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\Puzzle_API
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\Puzzle_API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\Puzzle_API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\Puzzle_API
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\Puzzle_API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\Puzzle_API
+An unhandled exception has occurred while executing the request.
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\Puzzle_API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\Puzzle_API
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\Puzzle_API
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\Puzzle_API
+An unhandled exception has occurred while executing the request.
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\Puzzle_API
+An unhandled exception has occurred while executing the request.
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\Puzzle_API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\Puzzle_API
+An unhandled exception has occurred while executing the request.
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\Puzzle_API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\Puzzle_API
+An unhandled exception has occurred while executing the request.
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\Puzzle_API
+An unhandled exception has occurred while executing the request.
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\Puzzle_API
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\Puzzle_API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\Puzzle_API
+An unhandled exception has occurred while executing the request.
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\Puzzle_API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\Puzzle_API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\Puzzle_API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\Puzzle_API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\Puzzle_API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\Puzzle_API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\Puzzle_API
+An unhandled exception has occurred while executing the request.
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\Puzzle_API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\Puzzle_API
