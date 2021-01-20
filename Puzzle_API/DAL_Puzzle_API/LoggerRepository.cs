@@ -15,6 +15,7 @@ namespace DAL_Puzzle_API
         public void SaveError(string methodName, string message, string stackTrace, string innerException, string requestValue = null)
         {
             context.PuzzleErrors.Add(new PuzzleError() { InnerExceprion = innerException, MethodName = methodName, Message = message, StackTrace = stackTrace, Requst = requestValue});
+            context.SaveChanges();
         }
 
     }

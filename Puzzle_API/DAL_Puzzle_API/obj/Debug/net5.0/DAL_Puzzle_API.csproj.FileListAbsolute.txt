@@ -13,3 +13,4 @@ D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\DAL_Puzzle_API\obj\Debug\net5.0\
 D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\DAL_Puzzle_API\obj\Debug\net5.0\ref\DAL_Puzzle_API.dll
 D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\DAL_Puzzle_API\obj\Debug\net5.0\DAL_Puzzle_API.pdb
 D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\DAL_Puzzle_API\obj\Debug\net5.0\DAL_Puzzle_API.genruntimeconfig.cache
+D:\My projects\Puzzle_API\Puzzle_API\Puzzle_API\DAL_Puzzle_API\obj\Debug\net5.0\DAL_Puzzle_API.csprojAssemblyReference.cache

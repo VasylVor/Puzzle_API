@@ -14,7 +14,7 @@ using System.Threading.Tasks;
 
 namespace Puzzle_API.Controllers
 {
-    [Route("[controller]")]
+    [Route("api/[controller]")]
     [ApiController]
     public class ImageController : ControllerBase
     {
@@ -37,7 +37,6 @@ namespace Puzzle_API.Controllers
             {
                 List<Image> images = new List<Image>();
                 images = image.GetImages().Select(s => new Image() { Id = s.Id, ImageValue = s.ImageValue, Name = s.Name}).ToList();
-                throw new Exception();
                 if (images.Count > 0)
                 {
                     ImageResponse response = new ImageResponse()

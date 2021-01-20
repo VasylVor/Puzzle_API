@@ -14,7 +14,7 @@ using System.Threading.Tasks;
 
 namespace Puzzle_API.Controllers
 {
-    [Route("[controller]")]
+    [Route("api/[controller]")]
     [ApiController]
     public class PuzzleController : ControllerBase
     {
